@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88745005463",
+    "firebase_url": "https://ananse-670a0.firebaseio.com",
+    "project_id": "ananse-670a0",
+    "storage_bucket": "ananse-670a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88745005463:android:07b32023f58f75113874d2",
+        "android_client_info": {
+          "package_name": "net.sipconsult.ananse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88745005463-1vc0dqgt0fj3ehmechscbtrrm7nrfhqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uslycCcz4XhIEz7wPv0L0NkAQ4IcvVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88745005463-1vc0dqgt0fj3ehmechscbtrrm7nrfhqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
